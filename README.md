@@ -81,4 +81,5 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claudecode/claudecode-original.svg" title="Claude Code" alt="Claude Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/codex-color.svg" title="Codex" alt="Codex" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/pingdotgg/t3code@202d5b5616e3edf65706371e2b8a9c4f486d0a96/assets/prod/logo.svg" title="T3 Code" alt="T3 Code" width="40" height="40"/>&nbsp;
 </div>
